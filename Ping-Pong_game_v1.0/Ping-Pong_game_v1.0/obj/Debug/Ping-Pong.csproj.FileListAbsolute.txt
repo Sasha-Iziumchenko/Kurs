@@ -1,0 +1,6 @@
+C:\Users\Dominic\Desktop\Ping-Pong_game_v1.0\Ping-Pong_game_v1.0\bin\Debug\Ping-Pong_game_v1.0.exe.config
+C:\Users\Dominic\Desktop\Ping-Pong_game_v1.0\Ping-Pong_game_v1.0\bin\Debug\Ping-Pong_game_v1.0.exe
+C:\Users\Dominic\Desktop\Ping-Pong_game_v1.0\Ping-Pong_game_v1.0\bin\Debug\Ping-Pong_game_v1.0.pdb
+C:\Users\Dominic\Desktop\Ping-Pong_game_v1.0\Ping-Pong_game_v1.0\obj\Debug\Ping-Pong.csproj.CoreCompileInputs.cache
+C:\Users\Dominic\Desktop\Ping-Pong_game_v1.0\Ping-Pong_game_v1.0\obj\Debug\Ping-Pong_game_v1.0.exe
+C:\Users\Dominic\Desktop\Ping-Pong_game_v1.0\Ping-Pong_game_v1.0\obj\Debug\Ping-Pong_game_v1.0.pdb
