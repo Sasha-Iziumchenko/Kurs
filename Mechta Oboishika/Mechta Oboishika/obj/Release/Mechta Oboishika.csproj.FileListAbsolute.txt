@@ -1,0 +1,10 @@
+C:\Users\Dominic\source\repos\Mechta Oboishika\Mechta Oboishika\bin\Release\Mechta Oboishika.exe.config
+C:\Users\Dominic\source\repos\Mechta Oboishika\Mechta Oboishika\bin\Release\Mechta Oboishika.exe
+C:\Users\Dominic\source\repos\Mechta Oboishika\Mechta Oboishika\bin\Release\Mechta Oboishika.pdb
+C:\Users\Dominic\source\repos\Mechta Oboishika\Mechta Oboishika\obj\Release\Mechta_Oboishika.Form1.resources
+C:\Users\Dominic\source\repos\Mechta Oboishika\Mechta Oboishika\obj\Release\Mechta_Oboishika.Properties.Resources.resources
+C:\Users\Dominic\source\repos\Mechta Oboishika\Mechta Oboishika\obj\Release\Mechta Oboishika.csproj.GenerateResource.Cache
+C:\Users\Dominic\source\repos\Mechta Oboishika\Mechta Oboishika\obj\Release\Mechta Oboishika.csproj.CoreCompileInputs.cache
+C:\Users\Dominic\source\repos\Mechta Oboishika\Mechta Oboishika\obj\Release\Mechta Oboishika.exe
+C:\Users\Dominic\source\repos\Mechta Oboishika\Mechta Oboishika\obj\Release\Mechta Oboishika.pdb
+C:\Users\Dominic\source\repos\Mechta Oboishika\Mechta Oboishika\obj\Release\Mechta Oboishika.csprojResolveAssemblyReference.cache
